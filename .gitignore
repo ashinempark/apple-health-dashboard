@@ -1,3 +1,4 @@
 export.xml
+trim.py
 *.zip
 __pycache__/
